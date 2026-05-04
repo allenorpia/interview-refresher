@@ -68,7 +68,7 @@ function test() {
         When you do operations with different data types, JavaScript will attempt to coerce one type to another
             number + string => string concatenation
             number - string => number subtraction (if string can be coerced to number)
-            strting + number => string concatenation
+            string + number => string concatenation
             5 + "5" = "55"
             5 - "2" = 3
             6 + true = 7 

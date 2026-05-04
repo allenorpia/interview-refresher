@@ -36,6 +36,13 @@
 
         
  """
+x = 10
+print(type(x))
+x= -26
+y = 3.14
+print(type(y))
+
+introduction = 'Hello World!'
 
 """ 
     OUTPUT AND PRINTING
@@ -80,6 +87,7 @@
         _private_variable = 30  
 
  """
+valid_variable_name = 'var'
 
 """ 
     INPUT IN PYTHON
